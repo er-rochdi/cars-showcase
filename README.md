@@ -1,3 +1,5 @@
+# cars-showcase
+A modern and responsive Next.js application designed to showcase cars with a clean and intuitive UI.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
