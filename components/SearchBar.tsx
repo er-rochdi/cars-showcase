@@ -3,7 +3,7 @@ import SearchMenuFacturer from './SearchMenuFacturer';
 import { useState } from 'react';
 
 const SearchBar = () => {
-    const [manufacturer,setManufacturer] = useState('')
+    const [manufacturer,setManuFacturer] = useState('')
     const handleSearch = () => {
 
     }
@@ -13,7 +13,7 @@ const SearchBar = () => {
             <div className='searchbar__item'>
              <SearchMenuFacturer
              manufacturer={manufacturer}
-             setManufacturer={setManufacturer}
+             setManuFacturer={setManuFacturer}
 
               />
             </div>
